@@ -1,1 +1,1 @@
-web: python donate.py
+web: python newfile.py
